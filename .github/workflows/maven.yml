@@ -4,9 +4,10 @@
 name: Java CI with Maven
 
 on:
-  schedule:
+  #schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 9 * * *'
+    #- cron:  '0 9 * * *'
+    workflow_dispatch:
 
 jobs:
   build:
@@ -36,4 +37,4 @@ jobs:
       uses:  ad-m/github-push-action@master
       with:
          github_token: ${{ secrets.MY_GIT_TOKEN }}
-         branch: main
+         branch: test
