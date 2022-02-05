@@ -1,6 +1,5 @@
 package com.wdbyte.bing;
 
-import java.io.IOException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
@@ -18,11 +17,11 @@ import com.alibaba.fastjson.JSONObject;
 public class Wallpaper {
 
     // BING API
-    private static String BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
+    private static String BING_API = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
 
-    private static String BING_URL = "https://cn.bing.com";
+    private static String BING_URL = "https://www.bing.com";
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
         String httpContent = HttpUtls.getHttpContent(BING_API);
         JSONObject jsonObject = JSON.parseObject(httpContent);
         JSONArray jsonArray = jsonObject.getJSONArray("images");
@@ -46,6 +45,9 @@ public class Wallpaper {
         FileUtils.writeBing(imagesList);
         FileUtils.writeReadme(imagesList);
 
+        // Download image
+        DownloadImage.fhd();
+        DownloadImage.uhd();
     }
 
 }
