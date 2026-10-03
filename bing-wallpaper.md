@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-04 | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)](https://www.bing.com/th?id=OHR.GrizzlySwim_ROW2767752337_UHD.jpg) 
+
 2026-10-02 | [Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg) 
 
 2026-10-01 | [Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](https://www.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg) 
