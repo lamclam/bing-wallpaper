@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg) 
+
 2026-10-19 | [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg) 
 
 2026-10-18 | [Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg) 
